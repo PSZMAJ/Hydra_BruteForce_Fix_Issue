@@ -8,7 +8,7 @@
 ##### usage:
 ```
 step 1 - clone this repo.
-step 2 - copy the contents of this file 'ssh_configs'
+step 2 - copy the contents of this file 'ssh_config'
 step 4 - paste and replace this copied content into a file at /etc/ssh/ssh_config
 step 5 - done :)
 ```
