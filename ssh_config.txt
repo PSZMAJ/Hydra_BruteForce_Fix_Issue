@@ -39,7 +39,7 @@ Host *
 #   IdentityFile ~/.ssh/id_ed25519
 #   Port 22
     Ciphers aes128-ctr,aes192-ctr,aes256-ctr,aes128-cbc,3des-cbc
-    MACs hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha1,hmac-sha1-96,hmac-md5,hmac-ripemd160
+#   MACs hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha1,hmac-sha1-96,hmac-md5,hmac-ripemd160
 #   EscapeChar ~
 #   Tunnel no
 #   TunnelDevice any:any
